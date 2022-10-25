@@ -6,21 +6,20 @@ To write a python program to implement multivariate linear regression and predic
 2.	Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm:
 ### Step1
-import pandas
+Import pandas
 ### Step2
-read csv file
-
+Read csv file
 ### Step3
-get data from the csv file
-
+Get data from the csv file
 ### Step4
-use linearregression and linearfit 
-
+Use linearregression and linearfit 
 ### Step5
-print output
-
+Print output
 ## Program:
 ```python
+#program to implement multivariate linear regression and predict the output
+#Developed by:Sivabalan S
+#Register number: 2204401
 import pandas as pd
 from sklearn import linear_model
 
